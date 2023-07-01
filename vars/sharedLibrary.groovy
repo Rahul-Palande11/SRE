@@ -1,5 +1,3 @@
 def call() {
-  echo "Hello Gitesh and Sagar"
-  sh 'chmod +x hello.sh'
-  sh './hello.sh'
+  echo "Hello All"
 }
